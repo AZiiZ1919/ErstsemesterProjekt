@@ -1,6 +1,6 @@
 "# ErstsemesterProjekt" 
 - Description : 
-* This project involves creating an interactive chatbot using Python. The chatbot is designed to simulate human-like conversations, respond to user inputs, and provide relevant answers or perform specific tasks . 
+ This project involves creating an interactive chatbot using Python. The chatbot is designed to simulate human-like conversations, respond to user inputs, and provide relevant answers or perform specific tasks . 
 Features : 
 - Implement the chatbot console app . 
 - Implement a trivia Game into the chatbot.
